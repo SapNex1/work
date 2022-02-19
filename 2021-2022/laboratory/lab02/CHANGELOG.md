@@ -1,3 +1,4 @@
+- Added changelog
 - Added lab02
 - Fifth commit
 - Fourth commit
