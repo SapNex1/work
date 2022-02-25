@@ -1,3 +1,4 @@
+- Added changelog
 - Merge branch 'master' of https://github.com/SapNex1/work
 - Added code
 - Added changelog
