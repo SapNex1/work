@@ -1,3 +1,7 @@
+- Merge branch 'master' of https://github.com/SapNex1/work
+- Added minor changes
+- Delete ~$report.docx
+- Added changelog
 - Added lab06
 - Added changelog
 - Added lab5
